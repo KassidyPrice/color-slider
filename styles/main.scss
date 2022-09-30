@@ -1,5 +1,3 @@
-div {
-  h1 {
-    color: red;
-  }
-}
+@import './common.scss';
+
+@import './slider/slider.scss';
